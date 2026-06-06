@@ -1,0 +1,20 @@
+============================================================
+FACULDADE DE CIÊNCIA DA COMPUTAÇÃO
+PROJETO SEMESTRAL DE 
+============================================================
+
+EMPRESA INTEGRADA: TechFix Solutions
+PRODUTO: Sistema Modular de Chamados Técnicos & Cadastro de Clientes
+
+CORPO DISCENTE E INTEGRANTES DO PROJETO:
+
+• Rian Rocha Mascarenhas    - RA: 2224106376
+• Bruno Gil                 - RA: 2224104380
+• Malcolm Agostinho Mendes  - RA: 2225107711
+
+TECNOLOGIAS DE DESENVOLVIMENTO:
+- Backend: PHP 8.x Nativo
+- Persistência: SQLite Embedded Engine (PDO)
+- Frontend: Bootstrap 5 (Dark Corporate UI), FontAwesome 6, Vanilla JavaScript
+
+ANO CORRENTE: 2026
