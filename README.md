@@ -1,0 +1,19 @@
+# TechFix Solutions — Sistema de Gestão de Serviços de TI
+
+Este projeto compreende o ecossistema computacional completo para controle corporativo de suporte técnico e ordens de serviço da **TechFix Solutions**, atendendo estritamente a todos os requisitos de segurança, validação relacional e arquitetura requisitados para a banca examinadora da Faculdade de Ciência da Computação.
+
+## 🚀 Diferenciais Técnicos Implantados
+* **Banco Automatizado:** O arquivo SQLite `techfix.db` e as tabelas são gerados dinamicamente no primeiro boot do sistema.
+* **Segurança Defensiva:** Prevenção total a SQL Injection utilizando *Prepared Statements* (PDO) em 100% das transações e proteção contra XSS via mapeamento sanitizado de saída de dados HTML.
+* **UI Responsiva & Moderna:** Interface baseada em Bootstrap 5 configurada nativamente em Tema Escuro Elegante com Sidebar dinâmica de estado ativo.
+
+## 💾 Guia Prático de Implantação no XAMPP
+
+1. Realize o download ou clone este projeto e mova a pasta inteira `TechFix` para dentro do diretório padrão do seu servidor Apache local, localizado em: `C:\xampp\htdocs\`.
+2. Abra o painel de controle do **XAMPP** e clique em **Start** no módulo **Apache**. Não é necessário ligar o MySQL, pois este projeto usa a engine autossuficiente SQLite.
+3. Abra seu navegador Web de preferência (Chrome, Edge, Firefox) e digite a seguinte URL na barra de buscas: `http://localhost/TechFix/`
+4. O sistema irá interceptar o acesso e redirecionar automaticamente para a tela de autenticação administrativa.
+
+## 🔑 Credenciais Homologadas para Avaliação
+* **E-mail institucional:** `riri@techfix.com`
+* **Senha criptografada:** `rian123`
